@@ -1,4 +1,3 @@
-# London-spatila-analysis-pm25
 # PM2.5 Exposure and Deprivation in London: A Spatial Analysis
 
 Code and figures for 5SSG2060 Principles of Spatial Data Science Coursework 2.
