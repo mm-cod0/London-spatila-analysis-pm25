@@ -3,7 +3,7 @@
 Code and figures for 5SSG2060 Principles of Spatial Data Science Coursework 2.
 
 ## Contents
-- `Untitled.ipynb` — Python notebook containing all analysis code
+- `5SSG2060_CW2.ipynb` — Python notebook containing all analysis code
 - Figures 1-5 as PNG files
 
 ## Data Sources
